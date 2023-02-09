@@ -6,7 +6,5 @@
 <a href="https://scholar.google.com/citations?user=urcEv1oAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Ali Hasan Md. Linkon" height="20" width="20" /></a>
 </p>
 
-- 🔭 &nbsp;I’m currently working on a MERN project
-- 🌱 &nbsp;I’m currently learning Node, TypeScript
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Node/React/Express
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Node/React
 - 📫 &nbsp;How to reach me: [@linkon_45](https://twitter.com/linkon_45) or <a rel="me" href="[https://fosstodon.org/@gkr](https://www.linkedin.com/in/linkon45/)">linkedin.com/in/linkon45/</a>
